@@ -89,11 +89,11 @@ variable "region" {
 }
 
 variable "access_key" {
-    default = "AKIA5FQX4UVG7B"
+    default = "Access"
     description = "access_key for our region "
 }
 
 variable "secret_key" {
-    default = "B9ZD9e8C/gb9XoIZCT/1vREIcXD"
+    default = "secret"
     description = "secret_key for our region "
 }
