@@ -11,3 +11,4 @@ terraform init
 terraform plan --var-file=testing.tfvars
 
 terraform apply --var-file=testing.tfvars
+https://medium.com/@emmanuelibok505/build-a-three-tier-web-application-using-terraform-d3bad86435ce
